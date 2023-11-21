@@ -6,7 +6,7 @@ use App\Models\Pharmacists;
 use App\Http\Requests\StorePharmacistsRequest;
 use App\Http\Requests\UpdatePharmacistsRequest;
 
-class PharmacistsController extends Controller
+class PharmacistController extends Controller
 {
     /**
      * Display a listing of the resource.

@@ -7,7 +7,7 @@ use App\Http\Requests\StoreProductRequest;
 use App\Http\Requests\UpdateProductRequest;
 use Illuminate\Http\Request;
 
-class ProductController extends Controller
+class MedicineController extends Controller
 {
     /**
      * Display a listing of the resource.
